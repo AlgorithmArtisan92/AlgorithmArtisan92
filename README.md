@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and game-dev with python
 - 🌱 I’m currently learning game-dev
 - 💞️ I’m looking to collaborate on making a game
-- 📫 How to reach me email travjustin@gmail.com
+- 📫 How to reach me email travjustin@outlook.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
